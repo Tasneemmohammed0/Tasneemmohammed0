@@ -3,8 +3,8 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tasneemmohammed0&theme=radical&show_icons=true&hide_border=false&count_private=true"  alt="Tasneemmohammed0-stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasneemmohammed0&theme=radical&hide_border=false"  alt="Tasneemmohammed0's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tasneemmohammed0&theme=radical&show_icons=true&hide_border=false&count_private=true.gif"  alt="Tasneemmohammed0-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tasneemmohammed0&theme=radical&hide_border=false.gif"  alt="Tasneemmohammed0's Streak" />
 
 </div>
 
